@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\bin\Debug\netcoreapp2.2\ClassExamples.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\bin\Debug\netcoreapp2.2\ClassExamples.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\bin\Debug\netcoreapp2.2\ClassExamples.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\bin\Debug\netcoreapp2.2\ClassExamples.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\bin\Debug\netcoreapp2.2\ClassExamples.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\obj\Debug\netcoreapp2.2\ClassExamples.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\obj\Debug\netcoreapp2.2\ClassExamples.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\obj\Debug\netcoreapp2.2\ClassExamples.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\obj\Debug\netcoreapp2.2\ClassExamples.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\obj\Debug\netcoreapp2.2\ClassExamples.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\ClassExamples\ClassExamples\obj\Debug\netcoreapp2.2\ClassExamples.pdb
